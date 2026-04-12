@@ -18,8 +18,8 @@ namespace Part1__Cybersecurity__Awareness__bot
 
                 Bitmap image = new Bitmap(path);
 
-                int width = 150;
-                int height = 70;
+                int width = 100;
+                int height = 40;
                 Bitmap resized = new Bitmap(image, new Size(width, height));
 
                 string asciiChars = " .:-=+*#%@";

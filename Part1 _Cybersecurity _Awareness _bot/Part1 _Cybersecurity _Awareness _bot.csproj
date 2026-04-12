@@ -56,7 +56,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="logo1.jpeg" />
-    <Content Include="voice_greeting.wav" />
+    <Content Include="voice_greeting1.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
