@@ -46,7 +46,7 @@ namespace Part1__Cybersecurity__Awareness__bot
             {
                 "how are you",
                 "purpose",
-                "password",
+                "passwords",
                "phishing",
                "safe browsing"
 
