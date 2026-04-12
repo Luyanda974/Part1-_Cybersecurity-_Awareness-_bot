@@ -12,7 +12,7 @@ namespace Part1__Cybersecurity__Awareness__bot
         private void greet()
         {
             string paths = AppDomain.CurrentDomain.BaseDirectory;
-            string fullpath = paths.Replace(@"bin\Debug\", "voice_greeting.wav");
+            string fullpath = paths.Replace(@"bin\Debug\", "voice_greeting1.wav");
             SoundPlayer voice_play = new SoundPlayer(fullpath);
             voice_play.Load();
             voice_play.Play();
