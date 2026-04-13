@@ -55,8 +55,8 @@ namespace Part1__Cybersecurity__Awareness__bot
             string[] responses = {
                 "I am doing great, i am here to help you stay safe online.",
                 "My purpose is to educate you about cybersecurity.",
-                "Use strong passwords with uppercase letters, numbers and symbols.",
-                "Phishing is when scammers trick you into giving personal information.",
+                "To ensure you are safe online,use strong passwords with uppercase letters, numbers and symbols.",
+                "Phishing is a cyber attacl used to trick people into giving personal and sensitive information.",
                 "Always check links and avoid suspicious websites"
 
             };
