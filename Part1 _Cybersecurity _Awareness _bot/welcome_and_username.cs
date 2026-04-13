@@ -12,7 +12,7 @@ namespace Part1__Cybersecurity__Awareness__bot
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("-----------------------------------");
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("[Welcome to the Chatbot]");
+            Console.WriteLine("[Welcome to the Lumina Chatbot]");
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("-----------------------------------");
             Console.ResetColor();
